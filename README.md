@@ -1,5 +1,6 @@
 # gitlab
 ##Team
-*Alex
-*Bob
-*Madison
+* Alex
+* Bob
+* Madison
+* Yanni
